@@ -23,3 +23,8 @@ The following fields are handled dynamically
 
 <img width="959" alt="image" src="https://github.com/Rangasaisandilya/HoneyWell-Task/assets/78152523/4f24e570-fed5-4917-81a5-1830b907f569">
 
+sample json input example
+
+<img width="333" alt="image" src="https://github.com/Rangasaisandilya/HoneyWell-Task/assets/78152523/bfddcece-e458-4cb3-8dcb-013d457d678f">
+
+
