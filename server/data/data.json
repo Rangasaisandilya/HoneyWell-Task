@@ -1,0 +1,29 @@
+[
+    {
+      "inputType": "text",
+      "inputLabel": "User Name",
+      "required": true,
+      "keyName": "userName",
+      "PlaceHolder": "Enter Valid user Name"
+    },
+    {
+      "inputType": "email",
+      "inputLabel": "Email",
+      "required": true,
+      "keyName": "email",
+      "PlaceHolder": "Enter Valid Email"
+    },
+    {
+      "inputType": "dropdown",
+      "inputLabel": "Gender",
+      "required": true,
+      "keyName": "gender",
+      "PlaceHolder": "Enter Your Gender",
+      "options": [
+        { "label": "Male", "value": "male" },
+        { "label": "Female", "value": "female" },
+        { "label": "Other", "value": "other" }
+      ]
+    }
+  ]
+  
