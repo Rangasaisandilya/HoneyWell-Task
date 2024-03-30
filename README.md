@@ -13,3 +13,13 @@ For Node
 step 1) cd server
 step 2) npm install
 step 3) npm start
+
+
+The following fields are handled dynamically
+
+1) label Names
+2) required or nor(validations)
+3) placeholder names
+
+<img width="959" alt="image" src="https://github.com/Rangasaisandilya/HoneyWell-Task/assets/78152523/4f24e570-fed5-4917-81a5-1830b907f569">
+
